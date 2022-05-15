@@ -1,0 +1,31 @@
+.App {
+    text-align: center;
+    background-image: url("https://mrsc.org/getmedia/730184d6-4b53-4210-a8bf-a5c95cb7a9f1/accounting-big.jpg.aspx?width=618&height=355&ext=.jpg");
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.calculator-container {
+    width: 400px;
+    height: 600px;
+    padding: 14px;
+    background-color: #2B193D;
+    border-radius: 10px;
+    border: 5px solid white;
+   
+}
+
+.row {
+    margin: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
